@@ -13,3 +13,5 @@ This is a simple one-page blog post web made by using HTML5 semantic elements. I
 - HTML5
 
 ## Live preview
+
+[View it on github pages](https://abid2320.github.io/simple-blog-posts-with-html/)
